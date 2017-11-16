@@ -9,10 +9,10 @@ V0 beta
 
 V1
 
--Finally working, full game
--Proud of CheckWin() function that is working (used for,else)
--COmputer randomly selects which square to use
--Code to ask the player if they want to TryAgain is under progress
+-Finally working, basic aspects of game functioning
+-"CheckWin()" is working
+-Computer choice of box is random
+-TryAgain under progress
 
 ===============================================================================
 
@@ -53,11 +53,11 @@ V3  Started 23/10/17
 	- Use more efficient techniques
 		- More arguments instead of global variables
     - Classes maybe
+    
 ===============================================================================
 V99 (Ideas for the future)
 
 -Let the player choose how large the Tic Tac Toe board will be
-	=(Find an algorithm to find the elements in WinList)
-  =(Find an algorithm to print board)
--2-player game
-	=PvP
+
+-2 player game
+	-PvP
